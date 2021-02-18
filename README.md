@@ -6,7 +6,6 @@
 
 ```pip install -r requirements.txt```
 
-#### `detect_aruco_image.py` What for and how to run? <br>
-###### To detect aruco marks. To run, try this
-`python detect_aruco_image.py --image images/aruco_generate_tags_montage --type DICT_ARUCO_ORIGINAL`
 
+###### To detect aruco marks, run below command
+`python detect_aruco_image.py --image images/aruco_generate_tags_montage --type DICT_ARUCO_ORIGINAL`
