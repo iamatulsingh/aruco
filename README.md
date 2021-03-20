@@ -1,6 +1,6 @@
 # arUco
 
-[![built with Python3](https://img.shields.io/badge/built%20with-Python3.x-red.svg)](https://www.python.org/)
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3.7-red.svg)](https://www.python.org/)
 
 ### How to install dependencies?
 
